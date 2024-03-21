@@ -1,0 +1,1 @@
+At the Terminal command prompt, to create a new console application in a specified folder, type dotnet new console -o ./CsharpProjects/TestProject and then press Enter.
